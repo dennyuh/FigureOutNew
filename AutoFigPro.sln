@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFigPro", "AutoFigPro\AutoFigPro.csproj", "{13E7281B-DA0C-4AA8-B6B4-B18D86DB620C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E7281B-DA0C-4AA8-B6B4-B18D86DB620C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E7281B-DA0C-4AA8-B6B4-B18D86DB620C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E7281B-DA0C-4AA8-B6B4-B18D86DB620C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E7281B-DA0C-4AA8-B6B4-B18D86DB620C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
